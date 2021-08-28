@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe gae built in C++ running via the command window
+TicTacToe game built in C++ running via the command window
